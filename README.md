@@ -1,3 +1,6 @@
+>[!WARNING]
+> `Bedrock.Desktop` has been deprecated in favor of [Stonecutter](https://github.com/Aetopia/Stonecutter).
+
 # Bedrock.Desktop
 Prevent Minecraft: Bedrock Edition from suspending.
 
